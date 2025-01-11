@@ -31,32 +31,7 @@ End of Game:
 
 When the timer runs out, the game displays the final score and a list of valid/invalid words.
 Multiplayer mode tallies scores for all participants.
-Technologies Used
-Java:
-Core game logic
-Object-Oriented Programming principles for maintainable and extensible design.
-JavaFX (Optional):
-GUI implementation for enhanced user experience.
-Installation
-Clone this repository:
-bash
-Copy code
-git clone https://github.com/yourusername/BOGGLE-Deluxe.git
-Navigate to the project directory:
-bash
-Copy code
-cd BOGGLE-Deluxe
-Compile the Java files:
-bash
-Copy code
-javac src/*.java
-Run the game:
-bash
-Copy code
-java src.Main
-Project Structure
-python
-Copy code
+
 BOGGLE-Deluxe/
 │
 ├── src/
