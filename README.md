@@ -32,48 +32,7 @@ End of Game:
 When the timer runs out, the game displays the final score and a list of valid/invalid words.
 Multiplayer mode tallies scores for all participants.
 
-BOGGLE-Deluxe/
-│
-├── src/
-│   ├── Main.java                # Entry point of the game
-│   ├── Board.java               # Generates and manages the game board
-│   ├── Player.java              # Represents a player and tracks their score
-│   ├── WordValidator.java       # Validates submitted words against the dictionary
-│   ├── GameTimer.java           # Handles game timing functionality
-│   ├── GUI.java (Optional)      # Implements the graphical user interface
-│   └── Utils.java               # Helper methods for common tasks
-│
-├── resources/
-│   ├── dictionary.txt           # Dictionary file for word validation
-│
-├── README.md                    # Project documentation
-└── LICENSE                      # License for the repository
-Future Enhancements
-Add animations and sound effects for a richer gaming experience.
-Implement a leaderboard to track high scores.
-Introduce AI players for single-player mode challenges.
-Expand word dictionaries for multiple languages.
-Add custom themes or skins for the GUI.
-Contributing
-Contributions are welcome! If you have ideas for improvements, feel free to fork the repository, make your changes, and submit a pull request.
-
-Fork the repository.
-Create a new branch:
-bash
-Copy code
-git checkout -b feature-name
-Commit your changes:
-bash
-Copy code
-git commit -m "Add feature-name"
-Push to the branch:
-bash
-Copy code
-git push origin feature-name
-Open a pull request.
-License
-This project is licensed under the MIT License. See the LICENSE file for more details.
 
 Acknowledgments
 Inspired by the classic BOGGLE game.
-Special thanks to [contributors/mentors].
+Special thanks to [Barsam/Alex/Bryan].
